@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD Simplified DocBook XML V4.1.2.5//EN" "http://www.oasis-open.org/docbook/xml/simple/4.1.2.5/sdocbook.dtd">
+<article role="specification">
+  <section id="actors">
+    <title>Actors</title>
+  </section>
+  <section id="usecases">
+    <title>Use Cases</title>
+  </section>
+  <section id="interfaces">
+    <title>Interfaces</title>
+  </section>
+  <section id="classes">
+    <title>Classes</title>
+  </section>
+  <section id="diagrams">
+    <title>Diagrams</title>
+    <!--diagrambegin1namebeginclass diagramnameend-->
+    <!--diagram1documentationbegindocumentationend-->
+    <section>
+      <title>class diagram</title>
+      <para/>
+      <mediaobject>
+        <imageobject>
+          <imagedata format="PNG" fileref="class diagram.png"/>
+        </imageobject>
+      </mediaobject>
+    </section>
+    <!--diagramend1-->
+    <!--diagrambegin2namebeginpesquisanameend-->
+    <!--diagram2documentationbegindocumentationend-->
+    <section>
+      <title>pesquisa</title>
+      <para/>
+      <mediaobject>
+        <imageobject>
+          <imagedata format="PNG" fileref="pesquisa.png"/>
+        </imageobject>
+      </mediaobject>
+    </section>
+    <section>
+      <title>Classes:</title>
+      <para/>
+    </section>
+    <!--diagramend2-->
+    <!--diagrambegin3namebeginpesquisador_convidadonameend-->
+    <!--diagram3documentationbegindocumentationend-->
+    <section>
+      <title>pesquisador_convidado</title>
+      <para/>
+      <mediaobject>
+        <imageobject>
+          <imagedata format="PNG" fileref="pesquisador_convidado.png"/>
+        </imageobject>
+      </mediaobject>
+    </section>
+    <section>
+      <title>Actor:</title>
+      <para/>
+      <para/>
+      <para/>
+    </section>
+    <section>
+      <title>Use Cases:</title>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+      <para/>
+    </section>
+    <!--diagramend3-->
+  </section>
+</article>
